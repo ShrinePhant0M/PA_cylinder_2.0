@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="hello">Hello, OpenGL ES 2.0!</string>
+    <string name="app_name">PA_cylinder 2.0</string>
+	<string name="start_auto_rotation">Start AutoRotation</string>
+    <string name="stop_auto_rotation">Stop AutoRotation</string>
+</resources>
